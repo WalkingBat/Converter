@@ -1,4 +1,4 @@
-
+# From decimal to binary
 def decimalToBinary(n):
 
 	if(n > 1):
@@ -13,8 +13,8 @@ if __name__ == '__main__':
 
 print()
 
+#From binary to decimal
 
-# binary to decimal
 def binaryToDecimal(n):
 	num = n;
 	dec_value = 0;
